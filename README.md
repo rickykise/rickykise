@@ -22,5 +22,5 @@
 
 ## 🔗 Links
 
-- 📄 [Notion Portfolio](https://www.notion.so/Backend-Developer-Portfolio-13d8e0768eb2452a992f2f50168cea94)  
-- 💼 [LinkedIn](https://linkedin.com/in/영우-최-36a174234)
+- [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) Notion Portfolio](https://www.notion.so/Backend-Developer-Portfolio-13d8e0768eb2452a992f2f50168cea94)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/영우-최-36a174234)
