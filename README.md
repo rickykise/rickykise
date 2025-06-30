@@ -22,6 +22,7 @@
 
 ## 🔗 Links
 
-- [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Backend-Developer-Portfolio-13d8e0768eb2452a992f2f50168cea94) **[Notion Portfolio](https://www.notion.so/Backend-Developer-Portfolio-13d8e0768eb2452a992f2f50168cea94)**
+- **[Notion Portfolio]
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Backend-Developer-Portfolio-13d8e0768eb2452a992f2f50168cea94)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/영우-최-36a174234) **[LinkedIn](https://www.linkedin.com/in/영우-최-36a174234)**
 
