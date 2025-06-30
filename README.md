@@ -2,8 +2,6 @@
 
 - **Language** :  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 - **Framework** :  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -25,5 +23,4 @@
 ## 🔗 Links
 
 - 📄 [Notion Portfolio](https://www.notion.so/Backend-Developer-Portfolio-13d8e0768eb2452a992f2f50168cea94)  
-- 💼 [LinkedIn](https://linkedin.com/in/영우-최-36a174234)  
-- ✉️ rickykise@naver.com
+- 💼 [LinkedIn](https://linkedin.com/in/영우-최-36a174234)
